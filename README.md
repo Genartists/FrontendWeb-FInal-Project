@@ -1,2 +1,3 @@
 # FrontendWeb-FInal-Project
-Education purpose.Creating a music Web Application by fetching data from Spotify. 
+Education purpose
+Creating a music Web Application using Reactjs and fetching data from Spotify. 
